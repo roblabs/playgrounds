@@ -1,4 +1,4 @@
-//: Playground for consuming GeoJson using (swift-json)[https://github.com/dankogai/swift-json]
+//: Playground for consuming GeoJson using [swift-json](https://github.com/dankogai/swift-json)
 
 import UIKit
 
